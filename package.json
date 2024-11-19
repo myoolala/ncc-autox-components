@@ -1,0 +1,19 @@
+{
+  "name": "ncc-autox-components",
+  "version": "1.0.0",
+  "description": "Anything for the ncc autocross club for the bmw cca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myoolala/ncc-autox-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myoolala/ncc-autox-components/issues"
+  },
+  "homepage": "https://github.com/myoolala/ncc-autox-components#readme"
+}
