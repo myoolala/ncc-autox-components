@@ -1,0 +1,155 @@
+s1 - 'BMW Stock 1' - Total Entries: 6
+  1T         s 144 Rafael Garces            2022 BMW M3 Co Dravit Grey     60.406  59.068> 57.560  63.947  66.827                                          57.560 +57.560
+  2T         s 165 Richard MacGregor        2018 BMW M3 Co Gray            83.559  80.115  77.244  76.951> 76.586                                          76.586 +19.026
+  3          s 160 Geoff Renaldo            1998 BMW M3    Cosmos Black                                                                                   dns
+  4          s 177 Kamran Bakhtian          2008 BMW Z4 M  ?                                                                                              dns     [-]57.5
+  5          s 192 Karla Yeakle             2022 BMW M4    Brooklyn Gray                                                                                  dns
+  6          s 203 KAHLIL NATIRBOFF         2023 BMW M2    ?                                                                                              dns
+
+ s2 - 'BMW Stock 2' - Total Entries: 4
+  1T         s 174 S Lawrence               2006 BMW z4    black           63.189  60.435  58.836> 58.459  71.438                                          58.459 [-]2.94
+  2T         s 104 Chris Pippin             2007 BMW Z4 E8 Montego Blue    64.176  63.831> 61.403  62.552  72.344                                          61.403 +2.944
+  3          s 106 Mark Croxton             2004 BMW 545i  Black Sapphire  67.706> 64.089  64.486  64.953  77.908                                          64.089 +2.686
+  4          s 161 Joe Breeding             2008 BMW 135i  Blue                                                                                           dns
+
+ s3 - 'BMW Stock 3' - Total Entries: 1
+  1T         s 116 PHILIP PETRIDES          1998 BMW 328i  Black                                                                                          dns
+
+ t1 - 'BMW Tuner 1' - Total Entries: 4
+  1T         t 103 Luca Selaru              1998 BMW M3    Silver          65.004  59.381> 57.391  74.393                                                  57.391 [-]0.17
+  2T         t 146 Christopher Moody        1997 BMW M3    Alpine White    59.728  58.226  58.863> 57.566                                                  57.566 +0.175
+  3          t 113 Peter Grasso             2021 BMW M2 co Orange          62.194  61.472> 58.352  72.571  71.369                                          58.352 +0.786
+  4          t 130 Florin Selaru            1998 BMW M3    Silver          61.498  59.998  58.542  59.136> 57.966  75.359                                  59.966 +1.614
+
+ t2 - 'BMW Tuner 2' - Total Entries: 2
+  1T         t 142 Audrey Esch              2014 BMW 335i  Estoril Blue    70.950  66.754> 64.023  71.484  75.151                                          64.023 [-]3.26
+  2          t 141 Bob Hausmann             1999 BMW Z Cou Black           62.341  62.053> 65.289  62.308  79.050                                          67.289 +3.266
+
+ t3 - 'BMW Tuner 3' - Total Entries: 5
+  1T         t 168 Charles Pompei           2011 BMW 128i  Blue            59.854  61.258  59.557> 58.209  72.077                                          58.209 [-]7.35
+  2T         t 132 Connor Croxton           2001 BMW 325i  Orient Blue     69.791  66.178> 65.564  68.547  72.257                                          65.564 +7.355
+  3          t 102 Raymond Junkins          1976 BMW 2002  Red             69.319> 68.401                                                                  68.401 +2.837
+  4          t 123 Troy Self                2023 Toyota Su Gray            73.909  73.665  75.161  73.585> 72.403                                          72.403 +4.002
+  5          t 112 Bryan Goubeau            1997 BMW 318i  Schwarz         76.530  73.636> 73.254                                                          73.254 +0.851
+
+ m - 'BMW Modified' - Total Entries: 1
+  1T           196 Brian Shipman            1999 BMW Z3 Co White                                                                                          dns
+
+ x1 - 'Non-BMW 1' - Total Entries: 4
+  1T         x 135 Peter Howard             2022 Chevrolet Gray          > 63.278  59.553  61.757  61.350  73.792                                          63.278 [-]1.34
+  2T         x 120 Carlos Castillo          2019 Ford GT35 Shadow Black    70.220  66.398  67.182> 64.624  80.374                                          64.624 +1.346
+  3          x 166 Mark Canekeratne         2023 Chevrolet Flare           68.293  67.798  71.281  74.212  79.436> 66.554  67.075  66.556  71.160  69.306  66.554 +1.930
+  4          x 119 Alan Benacquisto         2023 Chevrolet ?                                                                                              dns
+
+ x2 - 'Non-BMW 2' - Total Entries: 3
+  1T         x 167 Stirling Fazio           2004 Mazda Rx- red             70.895  72.869  70.116  68.989> 68.660                                          68.660 [-]4.24
+  2          x 169 Collin David             2016 Nissan 37 Black           78.690  90.292  73.833  77.309> 72.903                                          72.903 +4.243
+  3          x 114 Joseph Ustaris           2021 Porsche G Blue                                                                                           dns
+
+ x3 - 'Non-BMW 3' - Total Entries: 8
+  1T         x 204 Jack Standefer           2024 Volkswage -               71.030  67.283  63.682  62.546> 60.708  61.738  61.219                          60.708 [-]1.23
+ 
+
+  2T         x 105 Chan Won                 2024 Honda Civ Blue            66.266  64.203> 61.946  62.189  71.529                                          61.946 +1.238
+  3T         x 101 Antony Petrilla          2024 Porsche C Guards Red      65.733  65.996  63.036> 61.967  71.758                                          61.967 +0.021
+  4          x 127 Florent Abaziou          2007 Lotus Exi Grey            65.197  63.526> 62.940  63.063  75.111                                          62.940 +0.973
+  5          x 183 Mike Brown               2014 Mazda MX- White           71.721  83.553  73.705  69.721> 68.776                                          68.776 +5.836
+  6          x 178 Joel Vengrin             2023 Porsche C Silver          74.574  72.642> 71.249  72.117  69.747                                          71.249 +2.473
+  7          x 181 Mark Beck                2017 Porsche 7 Blue            70.236  35.044  68.513  75.032> 72.445                                          72.445 +1.196
+  8          x 199 Stephen Lally            2016 Ford Fies Black                                                                                          dns
+
+ x4 - 'Non-BMW 4' - Total Entries: 16
+  1T         x 107 Jonathan Laor            2023 Mazda MX5 Red             61.828  60.145  60.670> 59.329  72.330                                          59.329 [-]1.45
+  2T         x 171 Eli Gadd                 2013 Subaru BR White           63.619  62.812  61.148> 60.788                                                  60.788 +1.459
+  3T         x 109 Ted Comeau               2020 Mazda Mia Polymetal Grey  66.062> 63.248  63.351                                                          63.248 +2.460
+  4T         x 115 Marco Ramanata           1997 Honda Civ Red             70.286  65.654  65.301> 63.380  73.745                                          63.380 +0.132
+  5T         x 110 Dennis Marmalyukov       2021 Toyota Co Black           66.175  66.361> 66.327  66.659  71.432                                          66.327 +2.947
+  6          x 151 Jordyn Paul              2017 Toyota 86 Blue          > 67.720  78.428  67.918  68.153  66.921                                          67.720 +1.393
+  7          x 163 Vincent Lee              2022 Mazda MX- Red             81.594  29.718  69.766  68.913> 67.863                                          67.863 +0.143
+  8          x 154 Brian David              2017 Toyota 86 Blue            65.161  67.037  71.541  66.388> 66.266                                          68.266 +0.403
+  9          x 188 Scott Martin             2023 Toyota GR Red             78.554  72.225  70.134  68.960> 68.366                                          68.366 +0.100
+ 10          x 198 Sean Cutick              1999 Mazda Mia Blue            70.414  70.361  71.339  69.606> 68.934                                          68.934 +0.568
+ 11          x 180 David Howdyshell         2023 Toyota GR Red             75.998> 69.201  72.387  67.702  76.194                                          69.201 +0.267
+ 12          x 157 Jen Fox                  2021 Mazda MX- White           68.956  75.403  80.450> 69.739  72.736                                          69.739 +0.538
+ 13          x 172 Brian Tonkay             2023 Subaru BR White           91.036  87.241  76.962  75.904> 73.805                                          75.805 +6.066
+ 14          x 175 Greg Pollack             2021 Mazda MX- White                                                                                          dns
+ 15          x 191 Marcus Pyne              2019 Mazda Mia Red                                                                                            dns
+ 16          x 193 Chris LaBaw              1987 Porsche 9 Grey                                                                                           dns
+
+ mini - 'MINI Class' - Total Entries: 7
+  1T         t 158 Corey Brown              2012 Mini Coop Black           62.052> 60.149  71.463                                                          60.149 [-]3.52
+  2T         s 156 David Widdifield         2012 Mini S    Red             64.587> 63.672  71.229  70.519                                                  63.672 +3.523
+  3T           108 David Tracz              2005 Mini Coop Yellow          67.677> 63.722  64.034  64.059  75.217                                          63.722 +0.050
+  4          t 122 James Wade               2013 Mini Coop GREY            71.485  70.105> 69.055  72.185  74.929                                          69.055 +5.333
+  5          s 159 Mark Drew                2013 Mini R56  black           75.130  73.109  74.717> 72.635  73.223                                          72.635 +3.580
+  6          t 134 Brandy Brown             2021 Mini GP3  Racing Grey     84.974  78.275  76.183> 75.515  79.113                                          75.515 +2.880
+  7          t 170 John Preston             2021 Mini Coop Gray                                                                                           dns
+
+ nov - 'Novice' - Total Entries: 7
+  1T         n 140 John Breeding            2005 Porsche B Black         > 68.680  72.975  73.008  70.254 101.697                                          58.172 [-]4.92
+  2T         n 194 Kyle Prudence            2017 Volkswage Black           79.523  76.939  74.572> 74.496  75.325                                          63.098 +4.926
+  3T           124 Matt Reid                2020 Fiat 124  Silver          64.964  62.164  61.437> 60.836  73.219                                         dns
+  4T           118 Brian Wong               2009 BMW 135i  White           72.977  65.268> 62.487  65.866  69.331                                         dns
+  5            117 Brett Cooper             1994 Mazda Mia Montego Blue    72.075  69.985> 65.649  88.315  78.098                                         dns
+  6            293 Nicki LaBaw              1987 Porsche 9 Grey            85.010  80.790  77.412  75.038  73.732  74.674> 71.807  72.159  72.199         dns
+  7          n 111 Yong Kim                 2005 Honda S20 Black                                                                                          dns
+
+ ns - 'Novice Stock' - Total Entries: 2
+  2          n 148 Zach idk                 2011 BMW 128i  Blue           101.483  82.712  86.239  81.267> 76.057                                          76.057 +18.912
+
+ nt - 'Novice Tune' - Total Entries: 1
+  1T         n 100 Kristen Self             2011 BMW 328i  Gray            78.117  74.387  69.990> 68.143  74.919                                          68.143 -
+
+ xnc - 'Non-Comp' - Total Entries: 52
+  1T        xn 266 Mark Canekeratne         2023 Chevrolet Flare           54.509  54.093  57.502  53.905  54.132  54.089> 53.122                          53.122 +52.812
+  2T        xn 219 Alan Benacquisto         2023 Chevrolet ?               58.409  57.859  57.319  54.857  54.874> 53.611                                  53.611 +0.489
+  3T        xn 263 Vincent Lee              2022 Mazda MX- Red            100.000  55.926  56.366  55.612  60.129  55.518> 54.995                          54.995 +1.384
+  4T        xn 254 Brian David              2017 Toyota 86 Blue            58.165  56.173  56.869  56.497  55.676  55.895> 55.489                          55.489 +0.494
+  5T        xn 246 Christopher Moody        1997 BMW M3    Alpine White    68.087  56.959  56.262> 55.867  55.867                                          55.867 +0.378
+  6         xn 280 David Howdyshell         2023 Toyota GR Red           > 55.926  57.145  57.301  56.440  56.438  56.196  56.393                          55.926 +0.059
+  7         xn 288 Scott Martin             2023 Toyota GR Red             59.408  58.888  58.454  58.222  57.335  58.506> 56.398                          56.398 +0.472
+  8         xn 251 Jordyn Paul              2017 Toyota 86 Blue            59.131  58.895  59.165  67.876  57.964  57.098> 56.989                          56.989 +0.591
+ 9         xn 230 Florin Selaru            1998 BMW M3    Silver          68.553  65.280  61.337  58.268  66.801> 57.360  57.136                          57.360 +0.371
+ 10         xn 274 S Lawrence               2006 BMW z4    black           60.565  60.565  58.291  57.588> 57.641  58.007                                  57.641 +0.281
+ 12         xn 258 Corey Brown              2012 Mini Coop Black           57.926> 57.761                                                                  57.761 +0.120
+ 13         xn 268 Charles Pompei           2011 BMW 128i  Blue            59.783  58.164  58.729  68.012> 57.861  57.885                                  57.861 +0.100
+ 14         xn 213 Peter Grasso             2021 BMW M2 co Orange        > 58.276  56.685  60.341  60.341  60.399  60.886  60.709                          58.276 +0.415
+ 15         xn 207 Luca Selaru              1998 BMW M3    Silver           5.115  63.778  60.875  59.864  58.439> 58.717  60.348                          58.717 +0.441
+ 16         xn 272 Brian Tonkay             2023 Subaru BR White           62.793  59.999  59.269  58.620  57.244> 56.784  70.532  59.615                  58.784 +0.067
+ 17         xn 267 Stirling Fazio           2016 Nissan 37 black           61.156  61.866  60.135  59.847  59.847  59.686> 58.792                          58.792 +0.008
+ 18         xn 235  Howard                  2022 Chevrolet                 71.715  69.886  68.683  64.603  62.156> 59.232  58.655                          59.232 +0.440
+ 19         xn 259 Mark Drew                2013 Mini R56  black           62.617  61.676  61.226  59.818  59.838  59.195> 59.436                          59.436 +0.204
+ 20         xn 223 Troy Self                2023 Toyota Su Gray            61.711  61.412  59.968  60.805> 59.612                                          59.612 +0.176
+ 21         xn 212 Bryan Goubeau            1997 BMW 318i  Schwarz       > 60.047  60.764                                                                  60.047 +0.435
+ 22         xn 269 Collin David             2016 Nissan 37 Black           64.572  66.241  63.962  62.666  63.206  61.271> 60.561                          60.561 +0.514
+ 23         xn 202 Raymond Junkins          1976 BMW 2002  Red             65.991  65.685  64.726  64.726  63.484> 60.627  62.337  62.193                  60.627 +0.066
+ 24         xn 201 Antony Petrilla          2024 Porsche C Guards Red      72.901  72.194  68.536  66.099  62.454> 61.211  63.033                          61.211 +0.584
+ 25         xn 209 Ted Comeau               2020 Mazda Mia Polymetal Grey  62.499> 61.804                                                                  61.804 +0.593
+ 26         xn 210 Dennis Marmalyukov       2021 Toyota Co Black           71.591  68.828  65.136  63.677  62.394> 62.178  62.413                          62.178 +0.374
+ 27         xn 208 David Tracz              2005 Mini Coop Yellow          72.721  67.566  64.868  64.292  62.363  62.501> 62.262                          62.262 +0.084
+ 28         xn 265 Richard MacGregor        2018 BMW M3 Co Gray           100.000  64.169  63.772  62.881  61.720  60.581> 62.611                          62.611 +0.349
+ 29         xn 256 David Widdifield         2012 Mini S    Red             63.498  63.226> 62.706                                                          62.706 +0.095
+ 30         xn 218 Brian Wong               2009 BMW 135i  White           68.241  67.418  66.725  65.176  70.911  65.676> 64.350                          64.350 +1.644
+ 31         xn 222 James Wade               2013 Mini Coop GREY            74.347  75.018  73.576  69.229  67.872  66.129> 65.328                          65.328 +0.978
+ 32         xn 200 Kristen Self             2011 BMW 328i  Gray            76.742  74.607  72.389  69.906  67.540> 66.200  66.439                          66.200 +0.872
+ 33         xn 240 John Breeding            2005 Porsche B Black           83.605  79.740  76.618  73.113  66.836  65.311> 66.399                          66.399 +0.199
+ 34         xn 294 Kyle Prudence            2017 Volkswage Black           74.788  87.322  71.999  70.831  69.126  67.906> 66.788                          66.788 +0.389
+ 35         xn 234 Brandy Brown             2021 Mini GP3  Racing Grey     80.672  75.831  74.244  73.442  71.488  69.386> 67.801                          67.801 +1.013
+ 36         xn 206 Mark Croxton             2004 BMW 545i  Black Sapphire                                                                                 dns
+ 37         xn 214 Peter Howard             2022 Chevrolet Gray                                                                                           dns
+ 38         xn 217 Brett Cooper             1994 Mazda Mia Montego Blue                                                                                   dns
+ 39         xn 224 Matt Reid                2020 Fiat 124  Silver                                                                                         dns
+ 40         xn 227 Florent Abaziou          2018 Volkswage White                                                                                          dns
+ 41         xn 232 Connor Croxton           2001 BMW 325i  Orient Blue                                                                                    dns
+ 42         xn 260 Geoff Renaldo            1998 BMW M3    Cosmos Black                                                                                   dns
+ 43         xn 261 Joe Breeding             2008 BMW 135i  Blue                                                                                           dns
+ 44         xn 270 John Preston             2021 Mini Coop Gray                                                                                           dns
+ 45         xn 271 Eli Gadd                 2013 Subaru BR White                                                                                          dns
+ 46         xn 277 Kamran Bakhtian          2008 BMW Z4 M  ?                                                                                              dns
+ 47         xn 278 Joel Vengrin             2023 Porsche C Silver                                                                                         dns
+ 48         xn 283 Mike Brown               2014 Mazda MX- White                                                                                          dns
+ 49         xn 291 Marcus Pyne              2021 Mazda MX- White                                                                                          dns
+ 50         xn 292 Karla Yeakle             2022 BMW M4    Brooklyn Gray                                                                                  dns
+ 51         xn 296 Brian Shipman            1999 BMW Z3 Co White                                                                                          dns
+ 52         xn 299 Stephen Lally            2016 Ford Fies Black                                                                                          dns
+
