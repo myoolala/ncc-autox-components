@@ -104,18 +104,53 @@ const combineResults = results => {
     return toReturn;
 };
 
-const dropLowest = (results, dropCount = 2) => {
+const dropLowest = (results, keep = 4) => {
+    for (let i of Object.keys(results)) {
+        const peopleByClass = results[i];
+        for (let name of Object.keys(peopleByClass)) {
+            peopleByClass[name].sort((a, b) => b - a);
+            peopleByClass[name] = peopleByClass[name].filter((a, i) => !!a && i < keep);
+        }
+    }
     return results;
 };
 
-const exportToCsv = async results => {
+const mapResults = results => {
+    let toReturn = {}
+    for (let i of Object.keys(results)) {
+        const peopleByClass = results[i];
+        toReturn[i] = [];
+        for (let name of Object.keys(peopleByClass)) {
+            toReturn[i].push({
+                name,
+                scores: peopleByClass[name],
+                total: peopleByClass[name].reduce((a, b) => a+b, 0)
+            });
+        }
+        toReturn[i].sort((a, b) => b.total - a.total);
+    }
+    return toReturn;
+}
 
+const exportToCsv = async results => {
+    let data = [];
+    for (let className of Object.keys(results)) {
+        data.push(className);
+        for (let record of results[className]) {
+            data.push([
+                '', record.name, record.total, ...record.scores
+            ].join(','));
+        }
+    }
+    console.log(data);
+    await fs.promises.writeFile('output.csv', data.join("\n"));
 };
 
 const main = async () => {
     let allData = await readData(DATA_DIR);
     let classResults = combineResults(allData);
     classResults = dropLowest(classResults);
+    classResults = mapResults(classResults);
     console.log(classResults);
 
     await exportToCsv(classResults, '2024-results.csv')
