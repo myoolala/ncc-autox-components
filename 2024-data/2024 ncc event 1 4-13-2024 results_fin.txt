@@ -51,15 +51,15 @@
 
 
  x3 - 'Non-BMW 3' - Total Entries: 9
-  2T         x 121 Marc Gange               2015 Volkswage Carbon Gray     56.597  53.943  53.646  53.201> 53.525  53.525 +0.733
-  3T         x 144 Trenton Stevens          2016 Subaru WR Silver          64.322  55.293  54.765  55.315> 54.412  54.412 +0.887
-  4T         x 183 Mike Brown               2014 Mazda MX- White           57.820  56.848  56.339> 54.857  54.979  54.857 +0.445
-  5          x 127 Florent Abaziou          2018 Volkswage White           59.972  58.807  56.764  56.474> 56.033  56.033 +1.176
-  6          x 101 Shiwen Yin               2024 Volkswage Gray            59.894  58.008  57.553  56.920> 57.271  57.271 +1.238
-  7          x 199 Stephen Lally            2016 Ford Fies Black           63.907  61.807  60.254  60.207> 59.465  59.465 +2.194
-  8          x 150 Alejandro Aviles         1995 Acura NSX Red                                                    dns
-  9          x 119 Graeme Frost             2014 Ford Fies Blue                                                   dns
- 10          x 110 Elias Hiruy              2004 Mazda RX8 Silver                                                 dns
+  1T         x 121 Marc Gange               2015 Volkswage Carbon Gray     56.597  53.943  53.646  53.201> 53.525  53.525 +0.733
+  2T         x 144 Trenton Stevens          2016 Subaru WR Silver          64.322  55.293  54.765  55.315> 54.412  54.412 +0.887
+  3T         x 183 Mike Brown               2014 Mazda MX- White           57.820  56.848  56.339> 54.857  54.979  54.857 +0.445
+  4          x 127 Florent Abaziou          2018 Volkswage White           59.972  58.807  56.764  56.474> 56.033  56.033 +1.176
+  5          x 101 Shiwen Yin               2024 Volkswage Gray            59.894  58.008  57.553  56.920> 57.271  57.271 +1.238
+  6          x 199 Stephen Lally            2016 Ford Fies Black           63.907  61.807  60.254  60.207> 59.465  59.465 +2.194
+  7          x 150 Alejandro Aviles         1995 Acura NSX Red                                                    dns
+  8          x 119 Graeme Frost             2014 Ford Fies Blue                                                   dns
+  9          x 110 Elias Hiruy              2004 Mazda RX8 Silver                                                 dns
 
  x4 - 'Non-BMW 4' - Total Entries: 20
   1T         x 192 Marcus Pyne              2019 Mazda Mia Red             51.307  50.481  49.862  49.698> 49.726  49.726 [-]1.34
