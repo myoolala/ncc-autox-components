@@ -1,5 +1,5 @@
  s1 - 'BMW Stock 1' - Total Entries: 8
-  1T         s 203 KAHLIL NATIRBOFF         2023 BMW M2    ?               44.643  43.163  43.652  42.111  41.828  41.996> 41.249                          41.249
+  1T         s 203 Kahlil Natirboff         2023 BMW M2    ?               44.643  43.163  43.652  42.111  41.828  41.996> 41.249                          41.249
                                                                                                                                                           -
   2T         s 144 Rafael Garces            2025 BMW Z4 M4 Green           43.629  42.758  42.779  41.928  41.879> 41.696                                  41.696
                                                                                                                                                           +0.447

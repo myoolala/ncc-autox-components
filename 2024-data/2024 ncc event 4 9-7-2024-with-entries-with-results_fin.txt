@@ -4,7 +4,7 @@ s1 - 'BMW Stock 1' - Total Entries: 6
   3          s 160 Geoff Renaldo            1998 BMW M3    Cosmos Black                                                                                   dns
   4          s 177 Kamran Bakhtian          2008 BMW Z4 M  ?                                                                                              dns     [-]57.5
   5          s 192 Karla Yeakle             2022 BMW M4    Brooklyn Gray                                                                                  dns
-  6          s 203 KAHLIL NATIRBOFF         2023 BMW M2    ?                                                                                              dns
+  6          s 203 Kahlil Natirboff         2023 BMW M2    ?                                                                                              dns
 
  s2 - 'BMW Stock 2' - Total Entries: 4
   1T         s 174 S Lawrence               2006 BMW z4    black           63.189  60.435  58.836> 58.459  71.438                                          58.459 [-]2.94
@@ -88,17 +88,12 @@ s1 - 'BMW Stock 1' - Total Entries: 6
  nov - 'Novice' - Total Entries: 7
   1T         n 140 John Breeding            2005 Porsche B Black         > 68.680  72.975  73.008  70.254 101.697                                          58.172 [-]4.92
   2T         n 194 Kyle Prudence            2017 Volkswage Black           79.523  76.939  74.572> 74.496  75.325                                          63.098 +4.926
-  3T           124 Matt Reid                2020 Fiat 124  Silver          64.964  62.164  61.437> 60.836  73.219                                         dns
-  4T           118 Brian Wong               2009 BMW 135i  White           72.977  65.268> 62.487  65.866  69.331                                         dns
-  5            117 Brett Cooper             1994 Mazda Mia Montego Blue    72.075  69.985> 65.649  88.315  78.098                                         dns
-  6            293 Nicki LaBaw              1987 Porsche 9 Grey            85.010  80.790  77.412  75.038  73.732  74.674> 71.807  72.159  72.199         dns
-  7          n 111 Yong Kim                 2005 Honda S20 Black                                                                                          dns
-
- ns - 'Novice Stock' - Total Entries: 2
-  2          n 148 Zach idk                 2011 BMW 128i  Blue           101.483  82.712  86.239  81.267> 76.057                                          76.057 +18.912
-
- nt - 'Novice Tune' - Total Entries: 1
-  1T         n 100 Kristen Self             2011 BMW 328i  Gray            78.117  74.387  69.990> 68.143  74.919                                          68.143 -
+  3T         n 100 Kristen Self             2011 BMW 328i  Gray            78.117  74.387  69.990> 68.143  74.919                                          68.143 -
+  4T           124 Matt Reid                2020 Fiat 124  Silver          64.964  62.164  61.437> 60.836  73.219                                         dns
+  5T           118 Brian Wong               2009 BMW 135i  White           72.977  65.268> 62.487  65.866  69.331                                         dns
+  6            117 Brett Cooper             1994 Mazda Mia Montego Blue    72.075  69.985> 65.649  88.315  78.098                                         dns
+  7            293 Nicki LaBaw              1987 Porsche 9 Grey            85.010  80.790  77.412  75.038  73.732  74.674> 71.807  72.159  72.199         dns
+  8          n 111 Yong Kim                 2005 Honda S20 Black                                                                                          dns
 
  xnc - 'Non-Comp' - Total Entries: 52
   1T        xn 266 Mark Canekeratne         2023 Chevrolet Flare           54.509  54.093  57.502  53.905  54.132  54.089> 53.122                          53.122 +52.812

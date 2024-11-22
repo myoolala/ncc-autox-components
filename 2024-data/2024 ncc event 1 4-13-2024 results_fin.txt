@@ -64,24 +64,25 @@
  x4 - 'Non-BMW 4' - Total Entries: 20
   1T         x 192 Marcus Pyne              2019 Mazda Mia Red             51.307  50.481  49.862  49.698> 49.726  49.726 [-]1.34
   2T         x 166 Jack Crissey             2019 Mazda Mia Soul Red        54.541  52.946  51.724  51.097> 51.075  51.075 +1.349
-  3T         x 175 Greg Pollack             2021 Mazda MX- White           51.906  50.965  50.677  72.491> 51.746  51.746 +0.671
-  4T         x 198 Noel Leslie              2024 Toyota GR Raven           55.215  53.098  53.409  52.850> 52.490  52.490 +0.744
-  5T         x 195 Richard Johnston         2001 Honda S2K Yellow          67.494  55.633  54.041  53.891> 52.611  52.611 +0.121
-  6T         x 193 Tyler Regino             2001 Honda S20 Gray            55.997  54.284  53.402> 52.792  52.762  52.792 [-]0.73
-  7T         x 157 Jen Fox                  2021 Mazda MX- White           55.856  52.954  53.246> 52.819  52.930  52.819 +0.208
-  8          x 136 Vincent Lee              2022 Mazda MX- Red             58.858  56.159  55.680  54.400> 53.430  53.430 +0.611
-  9          x 120 Steve Mitchell           2019 Mazda Mia Soul Red        67.924  57.733  55.759  54.920> 53.613  53.613 +0.183
-  10          x 107 Jonathan Laor            2023 Mazda MX5 Red             57.634  54.647  54.938> 53.836  54.368  53.836 +0.223
- 11          x 169 Andres Rodriguez         2018 Honda Civ White           61.373  54.538  54.903  54.847> 54.143  54.143 +0.307
- 12          x 153 Scott Metzger            2009 Mazda Mia Red             58.769  57.035  55.877> 54.832  55.247  54.832 +0.689
- 13          x 282 Chris                    2016 Subaru BR Blue            60.787  57.674  57.332  56.935  55.949  55.199 +0.367
- 14          x 172 Brian Tonkay             2023 Subaru BR White           61.875  58.296  55.483> 55.386  55.777  55.386 +0.187
- 15          x 148 George Polak             2020 Mazda MX- Gray            62.083  59.554  58.026> 56.749  57.182  56.749 +1.363
- 16          x 109 Ted Comeau               2020 Mazda Mia Polymetal Grey  60.559  59.501  58.801> 57.875  57.340  57.875 +1.126
- 17          x 115 Marco Ramanata           1997 Honda Civ Red             71.300  63.304  61.385  59.657> 58.264  58.264 +0.389
- 18          x 124 Chris LaBaw              1987 Porsche 9 Grey            63.373  63.251  62.518> 61.481  61.802  61.481 +3.217
- 19          x 108 Kristen Self             2023 Toyota Su Gray            74.289  72.430  68.662> 67.083  67.188  67.083 +5.602
- 20          x 171 Eli Gadd                 2013 Subaru BR White                                                  dns
+  3T  <unknown 257 Jen Fox                                                 52.690  51.960  52.073  51.919> 51.485  51.485 -
+  4T         x 175 Greg Pollack             2021 Mazda MX- White           51.906  50.965  50.677  72.491> 51.746  51.746 +0.671
+  5T         x 198 Noel Leslie              2024 Toyota GR Raven           55.215  53.098  53.409  52.850> 52.490  52.490 +0.744
+  6T         x 195 Richard Johnston         2001 Honda S2K Yellow          67.494  55.633  54.041  53.891> 52.611  52.611 +0.121
+  7T         x 193 Tyler Regino             2001 Honda S20 Gray            55.997  54.284  53.402> 52.792  52.762  52.792 [-]0.73
+  8T         x 157 Jen Fox                  2021 Mazda MX- White           55.856  52.954  53.246> 52.819  52.930  52.819 +0.208
+  9          x 136 Vincent Lee              2022 Mazda MX- Red             58.858  56.159  55.680  54.400> 53.430  53.430 +0.611
+  10          x 120 Steve Mitchell           2019 Mazda Mia Soul Red        67.924  57.733  55.759  54.920> 53.613  53.613 +0.183
+  11          x 107 Jonathan Laor            2023 Mazda MX5 Red             57.634  54.647  54.938> 53.836  54.368  53.836 +0.223
+ 12          x 169 Andres Rodriguez         2018 Honda Civ White           61.373  54.538  54.903  54.847> 54.143  54.143 +0.307
+ 13          x 153 Scott Metzger            2009 Mazda Mia Red             58.769  57.035  55.877> 54.832  55.247  54.832 +0.689
+ 14          x 282 Chris                    2016 Subaru BR Blue            60.787  57.674  57.332  56.935  55.949  55.199 +0.367
+ 15          x 172 Brian Tonkay             2023 Subaru BR White           61.875  58.296  55.483> 55.386  55.777  55.386 +0.187
+ 16          x 148 George Polak             2020 Mazda MX- Gray            62.083  59.554  58.026> 56.749  57.182  56.749 +1.363
+ 17          x 109 Ted Comeau               2020 Mazda Mia Polymetal Grey  60.559  59.501  58.801> 57.875  57.340  57.875 +1.126
+ 18          x 115 Marco Ramanata           1997 Honda Civ Red             71.300  63.304  61.385  59.657> 58.264  58.264 +0.389
+ 19          x 124 Chris LaBaw              1987 Porsche 9 Grey            63.373  63.251  62.518> 61.481  61.802  61.481 +3.217
+ 20          x 108 Kristen Self             2023 Toyota Su Gray            74.289  72.430  68.662> 67.083  67.188  67.083 +5.602
+ 21          x 171 Eli Gadd                 2013 Subaru BR White                                                  dns
 
  mini - 'MINI Class' - Total Entries: 5
   1T         t 158 Corey Brown              2012 Mini Coop Black           71.197  58.313  58.393  56.231> 56.465  56.465 [-]1.40
@@ -157,7 +158,4 @@
  50         xn 222 James Wade               2013 Mini Coop GREY                                                   dns
  51         xn 219 Graeme Frost             2014 Ford Fies Blue                                                   dns
  52         xn 209 Ted Comeau               2020 Mazda Mia Polymetal Grey                                         dns
-
- <unknown> - '<unknown>' - Total Entries: 1
-  1T  <unknown 257 Jen Fox                                                 52.690  51.960  52.073  51.919> 51.485  51.485 -
 

@@ -4,7 +4,7 @@ s1 - 'BMW Stock 1' - Total Entries: 8
   3          s 192 Karla Yeakle             2022 BMW M4    Brooklyn Gray   60.476  59.225  62.974> 56.896          56.896 -
   4          s 165 Richard MacGregor        2018 BMW M3 Co Gray          > 65.536                                 dnf     +56.896
   5          s 177 Kamran Bakhtian          2008 BMW Z4 M  ?                                                      dns
-  6          s 203 KAHLIL NATIRBOFF         2023 BMW M2    ?                                                      dns
+  6          s 203 Kahlil Natirboff         2023 BMW M2    ?                                                      dns
   7          s 160 Geoff Renaldo            1998 BMW M3    Cosmos Black                                           dns
 
  s2 - 'BMW Stock 2' - Total Entries: 4
@@ -13,13 +13,10 @@ s1 - 'BMW Stock 1' - Total Entries: 8
   3          s 106 Mark Croxton             2004 BMW 545i  Black Sapphire  64.364  67.699  61.734  60.746> 58.887  58.887 +3.725
   4          s 104 Chris Pippin             2007 BMW Z4 E8 Montego Blue                                           dns
 
- s3 - 'BMW Stock 3' - Total Entries: 2
-  1T         s 140 John Vrankovich          2024 BMW M2    Redish          56.518  59.114> 53.318  52.156  53.567  53.318 -
-  2          s 116 PHILIP PETRIDES          1998 BMW 328i  Black                                                  dns
-
  t1 - 'BMW Tuner 1' - Total Entries: 2
   1T         t 146 Christopher Moody        1997 BMW M3    Alpine White    51.166> 50.561  50.490  50.715  52.613  50.561 [-]1.94
   2          t 113 Peter Grasso             2021 BMW M2 co Orange          55.559  54.357  54.691  61.658> 52.510  52.510 +1.949
+  3T         s 140 John Vrankovich          2024 BMW M2    Redish          56.518  59.114> 53.318  52.156  53.567  53.318 -
 
  t2 - 'BMW Tuner 2' - Total Entries: 3
   1T         t 174 S Lawrence               2006 BMW z4    black           54.356  53.775> 52.810                  52.810 [-]1.36

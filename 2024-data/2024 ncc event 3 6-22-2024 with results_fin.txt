@@ -2,7 +2,7 @@
   1T         s 144 Rafael Garces            2022 BMW M3 Co Dravit Grey     61.337  61.367> 60.423  47.206                                                  60.423 [-]7.22
   2T         s 165 Richard MacGregor        2018 BMW M3 Co Gray            70.188  69.064> 67.643  75.398                                                  67.643 +7.220
   3          s 177 Kamran Bakhtian          2008 BMW Z4 M  ?                                                                                              dns
-  4          s 203 KAHLIL NATIRBOFF         2023 BMW M2    ?                                                                                              dns
+  4          s 203 Kahlil Natirboff         2023 BMW M2    ?                                                                                              dns
 
  s2 - 'BMW Stock 2' - Total Entries: 2
   1T         s 106 Mark Croxton             2004 BMW 545i  Sapphire Black  72.257  69.211  69.303> 66.484                                                  66.484 -
@@ -87,13 +87,14 @@
  mini - 'MINI Class' - Total Entries: 9
   1T         t 158 Corey Brown              2012 Mini Coop Black           64.244  62.734  63.442> 61.880                                                  61.880 [-]2.73
   2T         s 159 Mark Drew                2013 Mini R56  black           67.803  65.988  65.397> 64.616                                                  64.616 +2.736
-  3T         s 167 Xavier Paisley           2014 Mini Coop White           70.141  68.033  72.907> 65.458                                                  65.458 +0.842
-  4          t 142 Sebastien Taylor         2021 Mini GP 3 Grey            73.467  71.614  68.301> 66.871                                                  66.871 +1.413
-  5          s 156 David Widdifield         2012 Mini S    Red             68.396  67.323> 67.084  67.379                                                  67.084 +0.213
-  6            164 David Tracz              2005 Mini Coop Yellow          70.948  67.497> 67.089  67.366                                                  67.089 +0.005
-  7          t 134 Brandy Brown             2021 Mini GP3  Racing Grey     93.124  86.256  83.429> 79.456                                                  79.456 +12.367
-  8          t 170 John Preston             2021 Mini Coop Gray                                                                                           dns
-  9          t 122 James Wade               2013 Mini Coop GREY                                                                                           dns
+  3T         s 167 Xavier Paisley           2014 Mini Coop White           70.141  68.033  72.907> 65.458                                                65.681 +0.426
+  4         xn 270 John Preston             2021 Mini Coop Gray            84.163  66.180> 65.863  65.968                                                   65.458 +0.842
+  5          t 142 Sebastien Taylor         2021 Mini GP 3 Grey            73.467  71.614  68.301> 66.871                                                  66.871 +1.413
+  6          s 156 David Widdifield         2012 Mini S    Red             68.396  67.323> 67.084  67.379                                                  67.084 +0.213
+  7            164 David Tracz              2005 Mini Coop Yellow          70.948  67.497> 67.089  67.366                                                  67.089 +0.005
+  8          t 134 Brandy Brown             2021 Mini GP3  Racing Grey     93.124  86.256  83.429> 79.456                                                  79.456 +12.367
+  9          t 170 John Preston             2021 Mini Coop Gray                                                                                           dns
+10          t 122 James Wade               2013 Mini Coop GREY                                                                                           dns
 
  nov - 'Novice' - Total Entries: 14
   1T         n 298 Riley Nickl              1999 BMW M3    Red             59.498  67.615  65.203> 65.056                                                  56.338 [-]0.03
@@ -135,8 +136,7 @@
  21         xn 242 Sebastien Taylor         2021 Mini GP 3 Grey            67.363  67.804  66.170> 64.948                                                  64.948 +0.395
  22         xn 280 Alexander Saavedra       2016 Ford Fies Black           66.136  66.455> 65.178                                                          65.178 +0.230
  23         xn 265 Richard MacGregor        2018 BMW M3 Co Gray            65.721  66.116> 65.255  65.323                                                  65.255 +0.077
- 24         xn 299 Stephen Lally            2016 Ford Fies Black         > 65.681  69.516  66.943  66.027                                                  65.681 +0.426
- 25         xn 270 John Preston             2021 Mini Coop Gray            84.163  66.180> 65.863  65.968                                                  65.863 +0.182
+ 24         xn 299 Stephen Lally            2016 Ford Fies Black         > 65.681  69.516  66.943  66.027                                                   65.863 +0.182
  26         xn 261 Joe Breeding             2018 Audi s5   Green           69.398  68.631  70.555> 66.499                                                  66.499 +0.636
  27         xn 240 Zachary Taylor           2023 BMW X3 M  Green           66.739  67.535  67.314> 66.727                                                  66.727 +0.228
  28         xn 264 David Tracz              2005 Mini Coop Yellow          67.899  67.737> 66.755  67.861                                                  66.755 +0.028

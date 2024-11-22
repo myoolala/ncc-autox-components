@@ -1,7 +1,7 @@
  s1 - 'BMW Stock 1' - Total Entries: 11
-  1T         s 211 Fatih Selekler           2024 BMW M3 CS Black           66.098  65.484  64.899  63.407  62.550  61.285  60.756> 59.188                  59.188 [-]0.75
-  2T         s 134 Rafael Garces            2022 BMW M3 Co Dravit Grey     61.175  60.830  59.993> 59.938  60.736                                          59.938 +0.750
-  3T         s 130 Steve Runnells           2017 BMW M240x Black           64.096  63.280  62.894> 61.528                                                  61.528 +1.590
+  1T         s 134 Rafael Garces            2022 BMW M3 Co Dravit Grey     61.175  60.830  59.993> 59.938  60.736                                          59.938 +0.750
+  2T         s 130 Steve Runnells           2017 BMW M240x Black           64.096  63.280  62.894> 61.528                                                  61.528 +1.590
+  3T         s 211 Fatih Selekler           2024 BMW M3 CS Black           66.098  65.484  64.899  63.407  62.550
   4T         s 136 Patrick Skees            2017 BMW M240x Black           65.257  64.682  64.522  62.839> 62.758                                          62.758 +1.230
   5          s 103 Hatem Muhsen             2022 BMW M440i Grey            77.260  68.395  67.362> 64.834  65.804                                          64.834 +2.076
   6          s 192 Karla Yeakle             2022 BMW M4    Brooklyn Gray   71.412  69.395  68.744> 66.837  68.607                                          66.837 +2.003
