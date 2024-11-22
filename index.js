@@ -38,6 +38,9 @@ const parseFile = async filePath => {
                 console.log(`This line is badly formatted: "${line}"`);
                 throw new Error('fsnajilfnsadjkfdsnajk');
             }
+            if (!line.match(/\d\d\.\d{3}/))
+                continue;
+            
             data[pieces[2].trim()] = SCORES[pieces[1]] || 0;
         } else {
             if (drivingClass) {
