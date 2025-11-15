@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DATA_DIR = '2024-data',
+const DATA_DIR = '2025-data',
       SCORES = {
         '1': 10,
         '2': 9,
@@ -61,7 +61,7 @@ const readData = async dataDir => {
         console.log(fileNames)
 
     for (let i in fileNames) {
-        let filename = fileNames[i];
+        let filename = fileNames[i].toLowerCase();
         console.log(`Reading file ${filename}`);
         // get current file name
         const name = path.parse(filename).name;
@@ -81,6 +81,7 @@ const readData = async dataDir => {
             // callback, do something with the file
             const contents = await parseFile(filepath);
             if (contents) {
+                console.log(filename)
                 let eventName = filename.match(/event \d+/);
                 toReturn[eventName[0]] = contents;
             }
@@ -156,7 +157,7 @@ const main = async () => {
     classResults = mapResults(classResults);
     console.log(classResults);
 
-    await exportToCsv(classResults, '2024-results.csv')
+    await exportToCsv(classResults, '2025-results.csv')
 };
 
 main().then(() => {
