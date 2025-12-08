@@ -54,15 +54,15 @@
   1T         x 166 Meyer Shimanov           2023 Mazda Mia Red             60.852  59.569  59.416> 57.002  56.873  57.002 [-]2.99
   2T         x 107 Jonathan Laor            2023 Mazda MX5 Red            63.615  61.237  60.733+>59.992  60.089   59.992 +2.990
   3T         x 126 Roman Marmalyukov        2025 Toyota GR Silver         61.818  60.934+ 61.311 >60.432  60.117+  60.432 +0.440
-  4T         x 149 Gerhard Bayer            2011 Mazda Mia Blue            82.206> 62.781  74.509  71.636  71.790  62.781 +2.349
-  5T         x 151 Marco Ramanata           1997 Honda Civ Black           72.286  66.415> 64.924  65.912  65.164  64.924 +2.143
-  6          x 110 Dennis Marmalyukov       2021 Toyota Co Black          68.991  66.038 >65.861  66.703  66.202   65.861 +0.937
-  7          x 171 Eli Gadd                 2013 Subaru BR White           79.966> 63.911  64.006                  65.911 +0.050
-  8          x 167 Kevin Ford               2000 Mazda MX- Silver/Maroon   70.556  69.130  66.796> 65.937          65.937 +0.026
-  9          x 129 Ihsan Gun                1997 Mazda Mia White          75.386  68.497  68.173+ 67.760 >67.152   67.152 +1.215
- 10          x 197 William Elliott          2000 Mazda Mia Merlot&Silver   82.834  72.509> 70.079                  70.079 +2.927
- 11          x 117 Mimsy Rosenberg          2023 Toyota GR White           80.520  73.534  71.877> 71.511  69.896  71.511 +1.432
- 12          x 124 Finbar Wade              2002 Subaru WR Silver         80.419+ 76.107 >73.291  73.491+ 74.189   73.291 +1.780
+  4T         x 151 Marco Ramanata           1997 Honda Civ Black           72.286  66.415> 64.924  65.912  65.164  64.924 +4.492
+  5          x 110 Dennis Marmalyukov       2021 Toyota Co Black          68.991  66.038 >65.861  66.703  66.202   65.861 +0.937
+  6          x 171 Eli Gadd                 2013 Subaru BR White           79.966> 63.911  64.006                  65.911 +0.050
+  7          x 167 Kevin Ford               2000 Mazda MX- Silver/Maroon   70.556  69.130  66.796> 65.937          65.937 +0.026
+  8          x 129 Ihsan Gun                1997 Mazda Mia White          75.386  68.497  68.173+ 67.760 >67.152   67.152 +1.215
+  9          x 197 William Elliott          2000 Mazda Mia Merlot&Silver   82.834  72.509> 70.079                  70.079 +2.927
+ 10          x 117 Mimsy Rosenberg          2023 Toyota GR White           80.520  73.534  71.877> 71.511  69.896  71.511 +1.432
+ 11          x 149 Gerhard Bayer            2011 Mazda Mia Blue            82.206> 62.781> 74.509  71.636  71.790  71.636 +0.125
+ 12          x 124 Finbar Wade              2002 Subaru WR Silver         80.419+ 76.107 >73.291  73.491+ 74.189   73.291 +1.655
  13          x 263 Pete Mejia               1993 Toyota MR White           86.635  74.844> 73.494  71.160  75.010  73.494 +0.203
  14          x 248 George Polak             2020 Mazda MX- Gray            61.147  56.503  55.012> 54.392  54.618 dnf     +73.494
 
