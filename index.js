@@ -62,6 +62,9 @@ const readData = async dataDir => {
 
     for (let i in fileNames) {
         let filename = fileNames[i].toLowerCase();
+        if (filename.endsWith('csv'))
+            continue;
+            
         console.log(`Reading file ${filename}`);
         // get current file name
         const name = path.parse(filename).name;
