@@ -142,12 +142,14 @@ const mapResults = results => {
 const exportToCsv = async results => {
     let data = [];
     for (let className of Object.keys(results)) {
-        data.push(className);
-        for (let record of results[className]) {
+        data.push(`Class: ${className}`);
+        for (let i in results[className]) {
+            let record = results[className][i];
             data.push([
-                '', record.name, record.total, ...record.scores
+                `${(parseInt(i) + 1)}${i < 3 ? 'T' : ''}`, record.name, record.total, ...record.scores
             ].join(','));
         }
+        data.push('');
     }
     console.log(data);
     await fs.promises.writeFile('output.csv', data.join("\n"));

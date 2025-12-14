@@ -1,131 +1,142 @@
-s1
-,Karla Yeakle,38,10,10,9,9
-,Richard MacGregor,33,9,8,8,8
-,Rafael Garces,30,10,10,10
-,Jeffery Schweiger,19,7,6,6
-,Chirag Naga,13,8,5
-,Steve Runnells,9,9
-,Lawrence Boyler,9,5,4
-,Rik Ebbesen,9,9
-,Ethan Fermanis,7,7
-,Steven Rodriguez Ruiz,7,7
-,Debbie Diamond,3,3
-s2
-,S Lawrence,39,10,10,10,9
-,John Lattanzio,38,10,10,9,9
-,Chris Pippin,32,9,8,8,7
-,William Steele,8,8
-,Zachary Taylor,6,6
-s3
-,Christopher Higgins,20,10,10
-t1
-,Christopher Moody,40,10,10,10,10
-,Peter Grasso,27,9,9,9
-,Florin Selaru,17,9,8
-,Luca Selaru,15,8,7
-,Benjamin Dao,8,8
-,Kelvin Hao,8,8
-,Steven Grant,7,7
-,Eric Harley,6,6
-t2
-,Audrey Esch,40,10,10,10,10
-,Bob Hausmann,9,9
-t3
-,Troy Self,36,10,9,9,8
-,Kristen Self,30,9,8,7,6
-,Charles Pompei,30,10,10,10
-,Bryan Goubeau,26,10,8,8
-,Waseem AbuRakia-Einhorn,19,7,7,5
-,Samuel West,10,6,4
-,Raymond Junkins,9,9
-,Greg Grant,7,7
-,Steven Grant,3,3
-m
-,Samuel Poticha,40,10,10,10,10
-,Joe Breeding,35,9,9,9,8
-,Brian Shipman,19,10,9
-x1
-,David Roberts,36,10,9,9,8
-,Michael Kohut,28,9,8,7,4
-,Peter Howard,27,10,10,7
-,Alex Yang,27,10,9,8
-,Carlos Castillo,13,8,5
-,Mark Canekeratne,10,10
-,Bradford Yeakle,9,9
-,Michael Geasley,8,8
-,Lee Ficke,7,7
-,Charles Miks,6,6
-x2
-,Ken Wojcik,39,10,10,10,9
-,Joseph Ustaris,24,9,9,6
-,Walter Lunsmann,19,10,9
-,Patrick Gaffney,10,10
-,E Core,9,9
-,Ken Wojcik, Jr,7,7
-x3
-,Antony Petrilla,36,10,9,9,8
-,Mark Beck,32,9,8,8,7
-,Alejandro Aviles,32,10,10,10,2
-,Florent Abaziou,24,7,6,6,5
-,Stephen Lally,17,6,6,4,1
-,Elias Hiruy,17,9,8
-,Eric Nelson,16,9,7
-,John Cho,14,8,4,2
-,Kyle Prudence,13,4,3,3,3
-,Chan Won,12,7,5
-,Kihun Cha,10,5,5
-,Howard Leikin,10,10
-,Jack Standefer,7,4,3
-,Ethan Fermanis,7,7
-,Alexander Saavedra,5,5
-,Gerard Spivey,4,2,2
-,Aaron Shimanov,4,4
-,Peter Howard,1,1
-x4
-,Jonathan Laor,37,10,9,9,9
-,Rich Johnston,29,10,10,9
-,Yong Kim,29,8,7,7,7
-,Roman Marmalyukov,26,8,8,6,4
-,Jacob Hahn,22,9,8,5
-,Eli Gadd,17,6,5,4,2
-,Marco Ramanata,16,7,5,4
-,Dennis Marmalyukov,12,6,4,2
-,Danny Kao,10,10
-,Meyer Shimanov,10,10
-,Ted Comeau,8,5,3
-,Ihsan Gun,7,3,2,1,1
-,Kevin Ford,7,4,2,1
-,Mike McKee,7,7
-,William Elliott,7,5,2
-,George Polak,6,6
-,Scott Metzger,6,6
-,Leslie Banyas,3,3
-,Al Pacheco,3,3
-,Triston Vaira,3,3
-,Mimsy Rosenberg,1,1
-,Numan Gun,0
-,Finbar Wade,0
-,Gerhard Bayer,0
-,Pete Mejia,0
-nov
-,Austin Jones,40,10,10,10,10
-,John Breeding,33,9,8,8,8
-,William Mackay,22,8,7,7
-,Young Kim,20,6,6,5,3
-,Kihun Cha,19,10,9
-,Ted Geasley,16,9,7
-,Scott Witte,14,9,5
-,Onur Sogutlu,11,6,5
-,William Pedneau,11,7,4
-,Giovanni Cianciaruso,9,5,4
-,Vincent Gomes,7,7
-,William Standefer,6,6
-,Michael Cleveland,5,5
-,Joel Cruz,5,4,1
-,Gregg Prudence,4,4
-,Sage Elliott,3,3
-,Jack Stokes,2,2
-,Jacob Glass,2,2
-,Daniel Yaqub,1,1
-,Lee Adcock,0
-,Gregory Gilleland,0
+Class: s1
+1T,Karla Yeakle,38,10,10,9,9
+2T,Richard MacGregor,33,9,8,8,8
+3T,Rafael Garces,30,10,10,10
+4,Jeffery Schweiger,19,7,6,6
+5,Chirag Naga,13,8,5
+6,Steve Runnells,9,9
+7,Lawrence Boyler,9,5,4
+8,Rik Ebbesen,9,9
+9,Ethan Fermanis,7,7
+10,Steven Rodriguez Ruiz,7,7
+11,Debbie Diamond,3,3
+
+Class: s2
+1T,S Lawrence,39,10,10,10,9
+2T,John Lattanzio,38,10,10,9,9
+3T,Chris Pippin,32,9,8,8,7
+4,William Steele,8,8
+5,Zachary Taylor,6,6
+
+Class: t1
+1T,Christopher Moody,40,10,10,10,10
+2T,Peter Grasso,27,9,9,9
+3T,Florin Selaru,17,9,8
+4,Luca Selaru,15,8,7
+5,Benjamin Dao,8,8
+6,Kelvin Hao,8,8
+7,Steven Grant,7,7
+8,Eric Harley,6,6
+
+Class: t2
+1T,Audrey Esch,40,10,10,10,10
+2T,Bob Hausmann,9,9
+
+Class: t3
+1T,Troy Self,36,10,9,9,8
+2T,Kristen Self,30,9,8,7,6
+3T,Charles Pompei,30,10,10,10
+4,Bryan Goubeau,26,10,8,8
+5,Waseem AbuRakia-Einhorn,19,7,7,5
+6,Samuel West,10,6,4
+7,Raymond Junkins,9,9
+8,Greg Grant,7,7
+9,Steven Grant,3,3
+
+Class: m
+1T,Samuel Poticha,40,10,10,10,10
+2T,Joe Breeding,35,9,9,9,8
+3T,Brian Shipman,19,10,9
+
+Class: x1
+1T,David Roberts,36,10,9,9,8
+2T,Michael Kohut,28,9,8,7,4
+3T,Peter Howard,27,10,10,7
+4,Alex Yang,27,10,9,8
+5,Carlos Castillo,13,8,5
+6,Mark Canekeratne,10,10
+7,Bradford Yeakle,9,9
+8,Michael Geasley,8,8
+9,Lee Ficke,7,7
+10,Charles Miks,6,6
+
+Class: x2
+1T,Ken Wojcik,39,10,10,10,9
+2T,Joseph Ustaris,24,9,9,6
+3T,Walter Lunsmann,19,10,9
+4,Patrick Gaffney,10,10
+5,E Core,9,9
+6,Ken Wojcik, Jr,7,7
+
+Class: x3
+1T,Antony Petrilla,36,10,9,9,8
+2T,Mark Beck,32,9,8,8,7
+3T,Alejandro Aviles,32,10,10,10,2
+4,Florent Abaziou,24,7,6,6,5
+5,Stephen Lally,17,6,6,4,1
+6,Elias Hiruy,17,9,8
+7,Eric Nelson,16,9,7
+8,John Cho,14,8,4,2
+9,Kyle Prudence,13,4,3,3,3
+10,Chan Won,12,7,5
+11,Kihun Cha,10,5,5
+12,Howard Leikin,10,10
+13,Jack Standefer,7,4,3
+14,Ethan Fermanis,7,7
+15,Alexander Saavedra,5,5
+16,Gerard Spivey,4,2,2
+17,Aaron Shimanov,4,4
+18,Peter Howard,1,1
+
+Class: x4
+1T,Jonathan Laor,37,10,9,9,9
+2T,Rich Johnston,29,10,10,9
+3T,Yong Kim,29,8,7,7,7
+4,Roman Marmalyukov,26,8,8,6,4
+5,Jacob Hahn,22,9,8,5
+6,Eli Gadd,17,6,5,4,2
+7,Marco Ramanata,16,7,5,4
+8,Dennis Marmalyukov,12,6,4,2
+9,Danny Kao,10,10
+10,Meyer Shimanov,10,10
+11,Ted Comeau,8,5,3
+12,Ihsan Gun,7,3,2,1,1
+13,Kevin Ford,7,4,2,1
+14,Mike McKee,7,7
+15,William Elliott,7,5,2
+16,George Polak,6,6
+17,Scott Metzger,6,6
+18,Leslie Banyas,3,3
+19,Al Pacheco,3,3
+20,Triston Vaira,3,3
+21,Mimsy Rosenberg,1,1
+22,Numan Gun,0
+23,Finbar Wade,0
+24,Gerhard Bayer,0
+25,Pete Mejia,0
+
+Class: nov
+1T,Austin Jones,40,10,10,10,10
+2T,John Breeding,33,9,8,8,8
+3T,William Mackay,22,8,7,7
+4,Young Kim,20,6,6,5,3
+5,Kihun Cha,19,10,9
+6,Ted Geasley,16,9,7
+7,Scott Witte,14,9,5
+8,Onur Sogutlu,11,6,5
+9,William Pedneau,11,7,4
+10,Giovanni Cianciaruso,9,5,4
+11,Vincent Gomes,7,7
+12,William Standefer,6,6
+13,Michael Cleveland,5,5
+14,Joel Cruz,5,4,1
+15,Gregg Prudence,4,4
+16,Sage Elliott,3,3
+17,Jack Stokes,2,2
+18,Jacob Glass,2,2
+19,Daniel Yaqub,1,1
+20,Lee Adcock,0
+21,Gregory Gilleland,0
+
+Class: s3
+1T,Christopher Higgins,20,10,10
