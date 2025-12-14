@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/myoolala/ncc-autox-components/issues"
   },
-  "homepage": "https://github.com/myoolala/ncc-autox-components#readme"
+  "homepage": "https://github.com/myoolala/ncc-autox-components#readme",
+  "dependencies": {
+    "csv-parse": "^6.1.0"
+  }
 }

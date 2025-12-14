@@ -64,15 +64,6 @@
  12          x 124 Finbar Wade              2002 Subaru WR Silver          60.691  59.740  56.426  56.136> 55.917  55.917 +1.858
  13          x 121 Mimsy Rosenberg          2023 Toyota GR White           70.895  63.310  60.137  59.056> 57.239  57.239 +1.322
 
- mini - 'MINI Class' - Total Entries: 7
-  1T         t 158 Corey Brown              2012 Mini Coop Black           48.978  47.954  48.502  48.585> 47.937  47.937 [-]1.89
-  2T           108 David Tracz              2005 Mini Coop Yellow          50.867  50.080> 49.831  50.031  50.214  49.831 +1.894
-  3T         s 156 David Widdifield         2012 Mini S    Red             52.263  50.324  50.041> 51.089  50.588  51.089 +1.258
-  4          t 170 John Preston             2021 Mini Coop Gray            51.606  53.052  52.131  53.358> 51.503  51.503 +0.414
-  5          t 122 James Wade               2013 Mini Coop GREY            57.226  55.025  56.044> 54.325  54.665  54.325 +2.822
-  6          s 105 Don McClure              2020 Mini JCW  Grey            62.727  60.459  57.306> 56.009  56.349  56.009 +1.684
-  7          t 134 Brandy Brown             2021 Mini GP3  Racing Grey     67.370  61.621> 57.868  59.816  58.485  57.868 +1.859
-
  nov - 'Novice' - Total Entries: 7
   1T         n 141 Austin Jones             2024 Audi S3   Black           51.800  49.808  49.217> 48.030  48.450  40.681 [-]0.19
   2T         n 179 Kihun Cha                2025 Hyundai E 188             49.071  49.749  49.194> 48.265  48.307  40.880 +0.199
@@ -81,53 +72,3 @@
   5          n 157 Young Kim                2007 Honda S20 New Formula Re  57.373  57.257  57.125  54.759> 53.278  45.126 +1.625
   6          n 197 Michael Cleveland        2014 BMW M6 Co Mojave Metalli  64.856  59.552  68.713  61.959> 57.495  48.698 +3.572
   7          n 191 Gregg Prudence           2017 Volkswage Black           70.246  63.828  62.173  60.940> 58.590  49.625 +0.927
-
- xnc - 'Non-Comp' - Total Entries: 59
-  1T        xn 999 Test Driver                                           >  7.373   8.496  27.652  22.788   9.697   7.373 [-]37.3
-  2T        xn 295 Rich Johnston            2019 Mazda Mia Red             48.569  48.552  45.525> 44.753  44.888  44.753 +37.380
-  3T        xn 203 Ken Wojcik               2018 Porsche 9 Guards Red      46.026  45.487  44.679> 44.907  44.984  44.907 +0.154
-  4T        xn 201 Antony Petrilla          2024 Porsche C Guards Red      46.082  45.513  45.652  45.789> 45.324  45.324 +0.417
-  5T        xn 274 S Lawrence               2006 BMW z4    black           46.929  45.919  47.715> 45.792          45.792 +0.468
-  6T        xn 211 Eric Nelson              2015 Porsche C Blue            47.749  47.795> 45.874  45.633  45.763  45.874 +0.082
-  7         xn 231 Peter Howard             2022 Chevrolet Gray            47.158  46.778  47.160> 46.210  46.524  46.210 +0.336
-  8         xn 225 Samuel Poticha           2004 BMW 330I  Silver          46.946  48.761> 46.436  46.265  46.047  46.436 +0.226
-  9         xn 277 Yong Kim                 2005 Honda S20 Black           47.242  46.564  47.485  46.428> 46.454  46.454 +0.018
- 10         xn 280 Jacob Hahn               2022 Toyota GR White           47.793  46.726  46.687> 46.625  46.221  46.625 +0.171
- 11         xn 241 Austin Jones             2024 Audi S3   Black           47.865  47.241  47.261> 46.950  47.190  46.950 +0.325
- 12         xn 223 Troy Self                2011 BMW 328i  Gray            49.143  48.211  47.623  49.047> 47.567  47.567 +0.617
- 13         xn 217 David Roberts            2004 Chevrolet Blue            50.953  48.682  48.251  47.644> 47.634  47.634 +0.067
- 14         xn 240 Jack Standefer           2024 Volkswage Black           49.336  49.360  49.082  48.504> 47.857  47.857 +0.223
- 15         xn 246 Christopher Moody        1997 BMW M3    Alpine White  > 47.976                                  47.976 +0.119
- 16         xn 258 Corey Brown              2012 Mini Coop Black         > 48.076  48.147                          48.076 +0.100
- 17         xn 279 Kihun Cha                2025 Hyundai E White           48.536> 48.155  48.278  48.835  48.585  48.155 +0.079
- 18         xn 271 Eli Gadd                 2013 Subaru BR White           48.890> 48.740                          48.740 +0.585
- 19         xn 242 Audrey Esch              2014 BMW 335i  Estoril Blue    50.296  49.722  49.648> 48.953  48.547  48.953 +0.213
- 20         xn 299 Stephen Lally            2016 Ford Fies Black           51.015  50.179  49.402> 48.958  51.923  48.958 +0.005
- 21         xn 248 George Polak             2020 Mazda MX- Gray            49.265> 49.024  49.685  49.367  49.666  49.024 +0.066
- 22         xn 261 Joe Breeding             1995 BMW M3    Avus Blue       49.236  50.314> 49.201  48.131  48.916  49.201 +0.177
- 23         xn 215 Jeffery Schweiger        2016 BMW M3    Red             53.700  50.047> 49.478  49.972  51.266  49.478 +0.277
- 24         xn 234 Brandy Brown             2021 Mini GP3  Racing Grey     57.400  57.879  57.922  57.978> 49.691  49.691 +0.213
- 25         xn 230 Kristen Self             2011 BMW 328i  Gray            54.257  51.125  50.020  50.230> 49.812  49.812 +0.121
- 26         xn 219 Steven Grant             2002 BMW 330i  Silver          49.847  49.878> 49.817  51.567  49.986  49.817 +0.005
- 27         xn 255 William Mackay           2019 Mazda MX- Red             51.302  50.317  52.287  50.868> 49.927  49.927 +0.110
- 28         xn 209 Ted Comeau               2020 Mazda Mia Polymetal Grey> 50.009  49.400  49.404  56.192  51.419  50.009 +0.082
- 29         xn 265 Richard MacGregor        2018 BMW M3 Co Gray            52.624  50.458  50.921> 50.071  50.191  50.071 +0.062
- 30         xn 212 Bryan Goubeau            1997 BMW 318i  Schwarz         50.991  50.178> 50.091                  50.091 +0.020
- 31         xn 273 Luca Selaru              1998 BMW M3    Silver        > 50.277  51.254  50.636                  50.277 +0.186
- 32         xn 200 Eric Harley              2011 BMW M3    white           49.080  80.816  50.975> 50.342  50.625  50.342 +0.065
- 33         xn 272 Florin Selaru            1998 BMW M3    Silver          48.878> 48.412  48.798                  50.412 +0.070
- 34         xn 228 Ihsan Gun                1997 Mazda Mia White           52.553  61.326  52.146  52.002> 50.481  50.481 +0.069
- 35         xn 244 Michael Kohut            2019 Ford Must Black           51.015  51.392  51.782> 50.866  51.327  50.866 +0.385
- 36         xn 270 John Preston             2021 Mini Coop Gray            52.682> 51.014  51.156  51.463  51.964  51.014 +0.148
- 37         xn 256 David Widdifield         2012 Mini S    Red             52.428  52.646> 51.310                  51.310 +0.296
- 38         xn 218 John Breeding            2005 Porsche B Black           52.563  51.969  51.629  52.536> 51.350  51.350 +0.040
- 39         xn 269 Numan Gun                2000 Mazda Mia Green           53.050  52.714  53.332  52.251> 51.541  51.541 +0.191
- 40         xn 294 Kyle Prudence            2023 Volkswage Blue            54.153> 52.434  53.005  52.858  52.792  52.434 +0.893
- 41         xn 222 James Wade               2013 Mini Coop GREY            56.101  55.559  54.811  54.437> 53.782  53.782 +1.348
- 42         xn 224 Finbar Wade              2002 Subaru WR Silver          56.015  55.038  54.572> 54.063  54.761  54.063 +0.281
- 43         xn 205 Don McClure              2020 Mini JCW  Grey          > 54.842  55.679  58.173  56.545  55.720  54.842 +0.779
- 44         xn 221 Mimsy Rosenberg          2023 Toyota GR White           61.482  58.601  57.293  57.234> 55.137  55.137 +0.295
- 45         xn 263 Samuel West              1986 BMW 635 C Bronze Beige    57.143  57.259  57.321> 55.591  56.558  55.591 +0.454
- 46         xn 297 Michael Cleveland        2014 BMW M6 Co Mojave Metalli  62.198  60.016  62.424> 56.875  58.975  56.875 +1.284
- 47         xn 291 Gregg Prudence           2017 Volkswage Black           62.622  63.415  61.396  60.516> 60.191  60.191 +3.316
-
