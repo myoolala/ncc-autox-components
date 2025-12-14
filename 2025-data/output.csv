@@ -5,11 +5,10 @@ s1
 ,Jeffery Schweiger,19,7,6,6
 ,Chirag Naga,13,8,5
 ,Steve Runnells,9,9
+,Lawrence Boyler,9,5,4
 ,Rik Ebbesen,9,9
 ,Ethan Fermanis,7,7
 ,Steven Rodriguez Ruiz,7,7
-,Lawrence Boyler,5,5
-,Lawrence Boyler          BMW,4,4
 ,Debbie Diamond,3,3
 s2
 ,S Lawrence,39,10,10,10,9
@@ -17,6 +16,8 @@ s2
 ,Chris Pippin,32,9,8,8,7
 ,William Steele,8,8
 ,Zachary Taylor,6,6
+s3
+,Christopher Higgins,20,10,10
 t1
 ,Christopher Moody,40,10,10,10,10
 ,Peter Grasso,27,9,9,9
@@ -128,5 +129,3 @@ nov
 ,Daniel Yaqub,1,1
 ,Lee Adcock,0
 ,Gregory Gilleland,0
-s3
-,Christopher Higgins,20,10,10

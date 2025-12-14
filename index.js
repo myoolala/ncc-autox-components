@@ -62,7 +62,7 @@ const readData = async dataDir => {
 
     for (let i in fileNames) {
         let filename = fileNames[i].toLowerCase();
-        if (filename.endsWith('csv'))
+        if (!filename.endsWith('txt'))
             continue;
             
         console.log(`Reading file ${filename}`);

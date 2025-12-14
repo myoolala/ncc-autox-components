@@ -5,7 +5,7 @@
   4          s 187 Ethan Fermanis           2024 BMW M2    Grey            58.529  55.906  56.301  56.618> 55.466          55.466 +0.049
   5          s 108 Jeffery Schweiger        2016 BMW M3    Red             68.368  64.454  59.951  61.768  58.582> 57.332  57.332 +1.866
   6          s 142 Chirag Naga              2025 BMW M3 Co Green           73.528  65.930  65.506  63.880  61.964> 58.619  58.619 +1.287
-  7          s 211 Lawrence Boyler          BMW 2023 M2    Blue            64.761  58.181> 58.680  59.800                  58.680 +0.061
+  7          s 211 Lawrence Boyler          2023 BMW M2    Blue            64.761  58.181> 58.680  59.800                  58.680 +0.061
   8          s 189 Debbie Diamond           2014 BMW 435I  Black           59.534  60.397  57.228  59.814> 59.163  59.274  59.163 +0.483
 
  s2 - 'BMW Stock 2' - Total Entries: 3
