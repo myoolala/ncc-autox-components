@@ -1,0 +1,28 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+    environment:
+      API_DOMAIN: flask-backend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend/src:/home/root/app/src
+      - ./frontend/dist:/home/root/app/dist
+
+  devops:
+    image: 5pmgrass/tenviac
+    volumes:
+      # Store the history
+      - devops_history:/root/bash_history
+      # Volume in the repo rather than copying it (saves time on start)
+      - ./:/root/repo
+      # Just in case we have any ssh to deal with
+      - $HOME/.ssh:/root/.ssh
+      # enable aws access
+      - ~/.aws:/root/.aws
+      - tenv:/root/.tenv
+
+volumes:
+  devops_history:
+  tenv:
