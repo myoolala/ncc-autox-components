@@ -9,19 +9,24 @@ export default function Header() {
   }
 
   return (
-    <nav className="header">
-        <div>
-            <Link aria-label="Navigate to home" to="/">Home</Link>
+    <header className="site-header">
+      <div className="topbar">
+        <div className="brand">
+          <div className="brand-mark">ET</div>
+          <div>
+            <h1>Capital Region Event Timing</h1>
+            <p>Live timing, class results, and season standings</p>
+          </div>
         </div>
-        <div>
-            <Link aria-label="Navigate to live timing" to="/live-timing">Live Timing</Link>
-            |
-            <Link aria-label="Navigate to season standings" to="/season-standings">Season Standings</Link>
-            |
-            <Link aria-label="Navigate to learn more" to="https://nccautocross.com/">Learn more</Link>
-            |
-            <Link style={{display: 'none'}} ariga-label="Sign out" to="/sign-out" onClick={signOut}>Sign Out</Link>
-        </div>
-    </nav>
+      </div>
+
+      <nav className="main-nav">
+        <Link aria-label="Navigate to home" to="/">Home</Link>
+        <Link aria-label="Navigate to live timing" to="/live">Live timing</Link>
+        <Link aria-label="Navigate to results" to="/results">Results</Link>
+        <Link aria-label="Navigate to register for the next event" to="https://nccautocross.com/">Register</Link>
+        <Link style={{display: 'none'}} ariga-label="Sign out" to="/sign-out" onClick={signOut}>Sign Out</Link>
+      </nav>
+    </header>
   );
 }
