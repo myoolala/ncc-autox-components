@@ -9,3 +9,9 @@ export const DataStates = {
     SAVING: "SAVING",
     SAVED: "SAVED"
 } as const;
+
+export interface AppState {
+  selectedYear: number;
+  setSelectedYear: (year: number) => void;
+  // resultsByYear: 
+}

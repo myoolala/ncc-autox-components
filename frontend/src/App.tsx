@@ -5,6 +5,7 @@ import { Routes, Route } from "react-router-dom";
 import NotFoundPage from "./pages/notFound";
 import Header from "./components/header";
 import Home from "./pages/home";
+import ResultsPage from "./pages/results";
 
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
         {/* <Route path="/login" element={<LoginPage />} /> */}
         <Route path="*" element={<NotFoundPage />} />
         <Route path="/" element={<Home />} />
+        <Route path="/results" element={<ResultsPage />} />
       </Routes>
     </div>
   );
